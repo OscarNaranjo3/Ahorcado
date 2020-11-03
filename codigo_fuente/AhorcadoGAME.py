@@ -289,5 +289,5 @@ def verficar_win(entrada, ventana, label_1, label_2, label_3, label_4, label_ent
 
 def main():
     init_window()
-
+#ahorcadooooo
 main()
