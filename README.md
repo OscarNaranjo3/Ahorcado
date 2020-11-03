@@ -1,5 +1,7 @@
 Nombre proyecto: Ahorcado V1.0
+
 Grupo #7
+
 Integrantes:
 1. Marco Antonio Quimbay Dueñas
 2. David Santiago Pirateque Suarez
