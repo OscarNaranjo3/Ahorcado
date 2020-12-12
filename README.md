@@ -9,6 +9,63 @@ Integrantes:
 
 Objetivo: Programa virtual de entretenimiento del juego ahorcado
 
-Información Básica para ejecutar el programa:
-  - Hay que ingresar la palabra a adivinar por consola según se ejecute el programa para que se abra la ventana del juego
+FUNCIONALIDADES
+
+	MENÚ 
   
+   ![Image of Yaktocat](https://github.com/OscarNaranjo3/Ahorcado/blob/codigo_fuente/recursor/Imagen1.jpg)
+   
+  
+  
+  REGISTRO
+  
+  ![Image of Yaktocat](https://github.com/OscarNaranjo3/Ahorcado/blob/codigo_fuente/recursor/Imagen2.jpg)
+   
+	
+  
+  ALMACENAMIENTO DE USUARIOS 
+  
+  ![Image of Yaktocat](https://github.com/OscarNaranjo3/Ahorcado/blob/codigo_fuente/recursor/Imagen3.jpg)
+   
+	
+  
+  LOGIN
+  
+  ![Image of Yaktocat](https://github.com/OscarNaranjo3/Ahorcado/blob/codigo_fuente/recursor/Imagen4.jpg)
+	
+	
+  
+  WEB SCRAPING 
+  
+  ![Image of Yaktocat](https://github.com/OscarNaranjo3/Ahorcado/blob/codigo_fuente/recursor/Imagen5.jpg)
+
+  
+  
+  ALMACENAMIENTO DE PALABRAS 
+  
+  ![Image of Yaktocat](https://github.com/OscarNaranjo3/Ahorcado/blob/codigo_fuente/recursor/Imagen6.jpg)
+
+	
+  
+  JUEGO 
+  
+  ![Image of Yaktocat](https://github.com/OscarNaranjo3/Ahorcado/blob/codigo_fuente/recursor/Imagen7.jpg)
+  
+	
+  
+  REINICIO DEL JUEGO 
+  
+  ![Image of Yaktocat](https://github.com/OscarNaranjo3/Ahorcado/blob/codigo_fuente/recursor/Imagen8.jpg)
+
+  
+  
+  ALMACENAMIENTO DE ESTADÍSTICAS
+  
+	![Image of Yaktocat](https://github.com/OscarNaranjo3/Ahorcado/blob/codigo_fuente/recursor/Imagen9.jpg)
+  
+  
+  
+	ESTADÍSTICAS
+  
+	![Image of Yaktocat](https://github.com/OscarNaranjo3/Ahorcado/blob/codigo_fuente/recursor/Imagen10.jpg)
+
